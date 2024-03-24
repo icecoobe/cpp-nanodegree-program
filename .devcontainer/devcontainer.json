@@ -1,0 +1,6 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/cpp:ubuntu-22.04",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/zsh-plugins:0": {}
+  }
+}
